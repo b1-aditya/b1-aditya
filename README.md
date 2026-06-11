@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Aditya Sharma
 **Data Analyst || Data Scientist || Data Engineer**
 
-Email Me 👉 ✉️ **adityabrt2002@live.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Deep Learning Projects
 - 🌱 **I’m currently learning:** AI
 - 👯 **I’m looking to collaborate on:** NaaN
