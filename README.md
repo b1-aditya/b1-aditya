@@ -36,15 +36,13 @@
 > "जिंदगी कोई आफत या जी का जंजाल कोन्या जो थम इस न सुलझाण में ए पड़े रहो, यो तो एक नु कसूता सा भेद है भाई... बस जीए जाओ और स्वाद लिए जाओ!" 
 > — **ओशो**
 
----
-
 ⚡ *कोड करते रहो मखा, पर जिंदगी का स्वाद लेना ना भूलियो!*
 
+---
+
+[![](https://komarev.com/ghpvc/?username=b1-aditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=b1-aditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=b1-aditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
