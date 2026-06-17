@@ -27,27 +27,9 @@
 ![](https://streak-stats.demolab.com/?user=b1-aditya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=b1-aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=b1-aditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 🌟 Random Dev Quote of the Day
-
-> "Life is not a problem to be solved, but a mystery to be lived." 
-> — **Osho**
 
 ---
 
-## 🧠 The Deeper Meaning for Developers
-
-As developers, our brains are hardwired to treat everything like a complex math problem, a bug to squash, or a puzzle to solve. We constantly analyze, optimize, and overthink every single situation—both inside and outside the codebase.
-
-Osho’s philosophy challenges us to hit `Ctrl + C` on that analytical loop:
-
-* **Stop Over-Engineering:** Life isn't an algorithm meant to be understood purely through logic.
-* **Embrace the Runtime:** It is an ongoing experience meant to be lived in real-time. 
-* **Present Moment Awareness:** When you stop trying to fix every moment and just experience it with total awareness, you unlock the true beauty of existence.
-
----
 
 # 🌾 रैंडम Developer Quote
 
