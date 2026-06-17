@@ -30,8 +30,34 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=b1-aditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🌟 Random Dev Quote of the Day
+
+> "Life is not a problem to be solved, but a mystery to be lived." 
+> — **Osho**
+
+---
+
+## 🧠 The Deeper Meaning for Developers
+
+As developers, our brains are hardwired to treat everything like a complex math problem, a bug to squash, or a puzzle to solve. We constantly analyze, optimize, and overthink every single situation—both inside and outside the codebase.
+
+Osho’s philosophy challenges us to hit `Ctrl + C` on that analytical loop:
+
+* **Stop Over-Engineering:** Life isn't an algorithm meant to be understood purely through logic.
+* **Embrace the Runtime:** It is an ongoing experience meant to be lived in real-time. 
+* **Present Moment Awareness:** When you stop trying to fix every moment and just experience it with total awareness, you unlock the true beauty of existence.
+
+---
+
+# 🌾 रैंडम Developer Quote
+
+> "जिंदगी कोई आफत या जी का जंजाल कोन्या जो थम इस न सुलझाण में ए पड़े रहो, यो तो एक नु कसूता सा भेद है भाई... बस जीए जाओ और स्वाद लिए जाओ!" 
+> — **ओशो**
+
+---
+
+⚡ *कोड करते रहो मखा, पर जिंदगी का स्वाद लेना ना भूलियो!*
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=b1-aditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
