@@ -2,7 +2,7 @@
 **Data Analyst || Data Scientist || Data Engineer**
 
 - 🔭 **I’m currently working on:** Deep Learning Projects
-- 🌱 **I’m currently learning:** AI
+- 🌱 **I’m currently learning:** GenAI
 - 👯 **I’m looking to collaborate on:** NaaN
 - 🤔 **I’m looking for help with:** NaaN
 - 📫 **How to reach me:** adityabrt2002@gmail.com
