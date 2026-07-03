@@ -136,6 +136,20 @@ Built an NLP-based spam detection system (CountVectorizer + SGDClassifier) with 
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🏦 Bank Automation System
+**Desktop GUI Application — Python + Tkinter** &nbsp; ![Status](https://img.shields.io/badge/status-in_maintenance-yellow?style=flat-square)
+
+Built an interactive desktop banking system with a Tkinter GUI, featuring secure user registration/login validated against stored records, and a forgot-password flow with OTP verification for secure account recovery. Modularized codebase (`login_screen`, `forgot_screen`, `verify`) using SQLite3 for data persistence — a standalone offline app with hooks ready for real SMTP/Twilio integration.
+
+`Python` `Tkinter` `SQLite3` `GUI`
+
+[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/b1-aditya/BankingAutomationProject)
+
+</td>
+</tr>
 </table>
 
 <br/>
