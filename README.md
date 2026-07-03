@@ -90,6 +90,9 @@ Compared a custom Sequential CNN (95% val accuracy) against a MobileNetV2 2-phas
 
 `Python` `TensorFlow` `OpenCV` `Streamlit`
 
+[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/b1-aditya)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces)
+
 </td>
 <td width="50%">
 
@@ -99,6 +102,37 @@ Compared a custom Sequential CNN (95% val accuracy) against a MobileNetV2 2-phas
 Built a TF-IDF + KNN based recommendation engine over 1,752+ movies using genres, descriptions, directors & language. Full ML pipeline with cosine similarity matching, live poster fetch via OMDb API, and a multi-page Streamlit app deployed on Streamlit Cloud.
 
 `Python` `Scikit-learn` `NLP` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/b1-aditya)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/cloud)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍔 Food Review Sentiment Analysis
+**NLP Sentiment Classifier**
+
+Built a sentiment analysis system using custom text-cleaning, CountVectorizer and Logistic Regression to classify food reviews as Positive/Negative in real-time. Complete NLP pipeline with imbalance handling, feature tuning, and vectorizer optimization; model exported via Joblib. Streamlit app supports single & bulk analysis with CSV export.
+
+`Python` `NLP` `Logistic Regression` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/b1-aditya/Food-Sentiments-Prediction-Machine-Learning-Application-)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://adityafood-sentiments.streamlit.app/)
+
+</td>
+<td width="50%">
+
+### 🚫 Spam Detection Web App
+**End-to-End Spam Classifier**
+
+Built an NLP-based spam detection system (CountVectorizer + SGDClassifier) with class balancing, feature engineering, and cross-validation for optimized performance. Reusable ML pipeline exported with Joblib (`spam_clf.pkl`), validated via extensive real-time testing. Deployed as an interactive Streamlit app for instant Spam/Ham detection.
+
+`Python` `NLP` `SGDClassifier` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/b1-aditya/Spam_classifier)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://spamclassifier-57.streamlit.app/)
 
 </td>
 </tr>
