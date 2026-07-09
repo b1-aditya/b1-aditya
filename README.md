@@ -169,6 +169,31 @@ Built an interactive desktop banking system with a Tkinter GUI, featuring secure
 
 <br/>
 
+
+<br/>
+
+
+## 📜 Certifications
+<table>
+<tr>
+<td width="70%">
+
+### 🎓 Python + Data Science
+**Issued by:** DUCAT School of AI &nbsp;|&nbsp; **Completed:** June 2025
+
+Comprehensive certification covering Python programming and Data Science fundamentals.
+`Certificate No: 31122022884798880`
+
+</td>
+<td width="30%" align="center">
+
+[![View Certificate](https://img.shields.io/badge/View_Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aJNRNuVxklxmHHGVJNDxnbQAUSS6IlOd/view)
+
+</td>
+</tr>
+</table>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
