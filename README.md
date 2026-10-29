@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-role: Data Analyst → Data Scientist (in progress)
+role: Data Analyst → AI Engineer (in progress)
 company: ObjectOne Info Systems Ltd | Client: MyGov, IT Ministry (Govt of India)
 based_in: Delhi, India
 currently_building: Deep Learning & GenAI powered projects
